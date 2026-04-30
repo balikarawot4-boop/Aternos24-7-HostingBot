@@ -2,13 +2,13 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "imgonnacream",
-    "password": "",
+    "password": "67pp",
     "type": "offline"
   },
   "server": {
     "ip": "BaunKoKhasi12.aternos.me",
     "port": 32967,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
